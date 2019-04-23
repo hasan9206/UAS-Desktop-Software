@@ -1,7 +1,7 @@
 ***UAS DESKTOP Software***
 
 
-All the information used in the handout was taken from the official websites and support forums of the respective softwares. The software and their respective links are listed below:
+All the information used in the comparison was taken from the official websites and support forums of the respective softwares. The software and the corresponding links are listed below:
 
 1: **AgiSoft** https://www.agisoft.com/
 
