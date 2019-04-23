@@ -1,4 +1,4 @@
-**UAS DESKTOP Software**
+***UAS DESKTOP Software***
 
 
 All the information used in the handout was taken from the official websites and support forums of the respective softwares. The software and their respective links are listed below:
@@ -19,18 +19,16 @@ All the information used in the handout was taken from the official websites and
 
 8: **GeoKettle** http://www.spatialytics.org/projects/geokettle/
 
-9:
+9: **QGIS** https://www.qgis.org/en/site/index.html
 
-10:
+10: **Erdas Imagine** https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine
 
-11:
+11: **Properller Aero** https://www.propelleraero.com/
 
-12:
+12: **Pix4D** https://www.pix4d.com/
 
-13:
+13: **DroneDeploy** https://www.dronedeploy.com/
 
-14:
+14: **AutoDesk Recap** https://www.autodesk.com/products/recap/overview
 
-15:
-
-16:
+15: **Remote Expert** https://dronemapper.com/
